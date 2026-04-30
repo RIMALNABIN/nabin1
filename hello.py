@@ -1,2 +1,3 @@
-print("Hello World")
-print("今日は4月30日です。")
+int("リマルナビンさん、こんにちは")
+print("私はリマルナビンです。")
+print("
